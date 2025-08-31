@@ -25,17 +25,6 @@ Our goal was to create a device that is:
 
 ---
 
-## Prototype
-
-Photos of the final functional prototype:
-
-![Prototype Front](assets/prototype_front.jpg)  
-![Prototype Back](assets/prototype_back.jpg)  
-![Prototype Side 1](assets/prototype_side_1.jpg)  
-![Prototype Side 2](assets/prototype_side_2.jpg)  
-
----
-
 ## Circuit Diagram
 
 Circuit built in Tinkercad/Wokwi with Arduino UNO, ultrasonic sensor, LED, and piezo:
